@@ -475,8 +475,9 @@
                                 result="shape" />
                 </filter>
         </defs>
-        <script>
-        const seatLocations = [
+        <script
+                type="application/javascript">
+                const seatLocations = [
                 { cx: "123.394", cy: "86.9372" },
                 { cx: "190.32", cy: "86.9371" },
                 { cx: "257.246", cy: "86.9371" },
